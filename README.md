@@ -7,8 +7,9 @@
 <br>
 <p>This project was made in conjecuntion to a course I am taking on Udemy. This teaches moderen CSS design technicies to get myself used to more real world examples of sites that will need to be maintained. I also added variables and mixins for additional functionaility and ease to change things in the furture for potential updates. This landing page also includes responsive design accross multiple devices to ensure it looks stylish and functional no matter the screen size.</p>
 <br>
+<div></div>
 <h3>What I used to create this project</h3>
-<br> 
+<div></div>
 
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
