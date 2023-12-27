@@ -22,6 +22,10 @@ html {
     @include respond(Big-desktop) {
         font-size: 75%; //1rem = 12px, 12/16 = 75%
     }
+
+    @include respond(phone-small) {
+        font-size: 48%; //1rem = 12px, 12/16 = 75%
+    }
 }
 
 body {

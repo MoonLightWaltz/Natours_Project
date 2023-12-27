@@ -14,6 +14,12 @@
         padding: 4rem;
         padding-left: 7rem;
     }
+
+    @include respond(phone-small) {
+        width: 50%;
+        text-align: center;
+        padding: 3rem;
+    }
     
     @include respond(phone) {
         transform: skewX(0);
@@ -38,6 +44,11 @@
 
         @include respond(phone) {
             transform: translateX(-.5rem) skewX(0);
+        }
+
+        @include respond(phone-small) {
+            margin-left: 3rem;
+            shape-outside: none;
         }
     }
 

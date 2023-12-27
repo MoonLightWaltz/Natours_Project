@@ -72,6 +72,11 @@
         float: right;
         margin-top: -.1rem;
 
+        @include respond(phone-small) {
+            margin: 0 auto;
+            text-align: center;
+        }
+
         @include respond(Tab-port) {
             width: 80%;
             float: none;
