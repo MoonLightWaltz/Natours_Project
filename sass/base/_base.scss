@@ -34,7 +34,6 @@ body {
 
     @include respond(phone-small) {
         padding: 0;
-        margin: 0 auto;
     }
 
     @include respond(Tab-port) {
