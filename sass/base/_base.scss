@@ -33,7 +33,9 @@ body {
     padding: 3rem;
 
     @include respond(phone-small) {
-        padding: 0;
+        margin: 0;   
+        overflow: hidden;
+        overflow-y: scroll;
     }
 
     @include respond(Tab-port) {
