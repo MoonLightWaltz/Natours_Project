@@ -52,10 +52,6 @@
             top: 3rem;
             right: 3rem;
         }
-
-        @include respond(phone-small) {
-            text-align: center;
-        }
         //transform: scale(80);
     }
 

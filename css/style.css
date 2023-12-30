@@ -956,9 +956,6 @@ body {
     .navigation__background {
       top: 3rem;
       right: 3rem; } }
-  @media only screen and (max-width: 22.5em) {
-    .navigation__background {
-      text-align: center; } }
 
 .navigation__nav {
   height: 100vh;
